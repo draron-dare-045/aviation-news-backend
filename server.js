@@ -4,30 +4,31 @@ const axios = require("axios");
 const cors = require("cors");
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
+const NEWS_API_KEY = process.env.NEWS_API_KEY;
+const NEWS_API_URL = "https://newsapi.org/v2/everything";
 
 app.use(cors());
 
-const NEWS_API_URL = "https://newsapi.org/v2/everything";
-const API_KEY = process.env.NEWS_API_KEY;
-
-// Root Route (Optional)
-app.get("/", (req, res) => {
-    res.send("Aviation News API is running!");
-});
-
-// API Route to fetch news
 app.get("/news", async (req, res) => {
+    const query = req.query.q || "aviation";
+
     try {
-        const query = req.query.q || "aviation";
-        const response = await axios.get(`${NEWS_API_URL}?q=${query}&apiKey=${API_KEY}`);
+        const response = await axios.get(NEWS_API_URL, {
+            params: {
+                q: query,
+                language: "en",
+                apiKey: NEWS_API_KEY,
+            },
+        });
+
         res.json(response.data);
     } catch (error) {
-        res.status(500).json({ error: "Error fetching news" });
+        console.error("Error fetching news:", error);
+        res.status(500).json({ error: "Failed to fetch news" });
     }
 });
 
-// Start Server (For Local Testing)
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-module.exports = app; // Required for Vercel
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+});
