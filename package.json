@@ -1,10 +1,10 @@
 {
   "name": "aviation-news-hub-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,15 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draron-dare-045/aviation-news-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/draron-dare-045/aviation-news-backend/issues"
+  },
+  "homepage": "https://github.com/draron-dare-045/aviation-news-backend#readme",
+  "description": ""
 }
