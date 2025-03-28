@@ -26,7 +26,7 @@ app.get("/news", async (req, res) => {
 
 // Default route
 app.get("/", (req, res) => {
-    res.send("Aviation News API is running 🚀");
+    res.send("Aviation News API is running ");
 });
 
 // Start the server
