@@ -1,0 +1,1266 @@
+{
+
+    "articles": [
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Joby will launch UK air taxi service with Virgin Atlantic",
+        "description": "Virgin Atlantic announced a partnership with California-based Joby Aviation to launch an air taxi service in the UK, becoming the latest airline to bet on a new class of electric aircraft vying to become taxis in the sky. Joby’s all-electric aircraft has six …",
+        "url": "https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Joby_VirginAtlantic_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-14T19:05:02Z",
+        "content": "The aircraft will be co-branded with Joby and Virgin Atlantic logos. | Image: Joby\r\n\n\nVirgin Atlantic announced a partnership with California-based Joby Aviation to launch an air taxi service in the … [+3215 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Flights halted at some Florida airports over SpaceX debris",
+        "description": "It impacted flights in Orlando, Miami and Palm Beach after debris concerns from Starship's failed launch",
+        "url": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f67/live/3d033f20-faf1-11ef-9e61-71ee71f26eb1.jpg",
+        "publishedAt": "2025-03-07T01:17:47Z",
+        "content": "US aviation authorities have halted all flights at several Florida airports over concerns about debris from SpaceX's Starship, which spun out of control shortly after launch. \r\nA ground stop was in e… [+393 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Delta Airlines bets on ‘blended-wing’ flight to reduce emissions",
+        "description": "Delta Airlines is backing a startup that wants to design more fuel efficient, blended-wing-body aircraft, in the hopes of reducing its carbon footprint and making air travel more sustainable.  The airline said today that it will help support the development o…",
+        "url": "https://www.theverge.com/news/624587/delta-jetzero-blended-wing-aircraft-demonstrator-2027",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/JetZero-Exterior.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2025-03-05T15:12:23Z",
+        "content": "The airline will help startup JetZero design and test its blended-wing-body demonstrator aircraft by 2027.\r\nThe airline will help startup JetZero design and test its blended-wing-body demonstrator ai… [+3457 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Hugh Langley",
+        "title": "Inside Larry Page's secret bet to 3D-print the future of air travel",
+        "description": "Google cofounder Larry Page is funding a new aviation startup run by former Kittyhawk CTO Chris Anderson.",
+        "url": "https://www.businessinsider.com/larry-page-new-aviation-startup-dynatomics-2025-1",
+        "urlToImage": "https://i.insider.com/67d0870a585f1dff88b1cd80?width=1200&format=jpeg",
+        "publishedAt": "2025-03-12T08:59:01Z",
+        "content": "Google cofounder Larry Page.Justin Sullivan/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EGoogle cofounder Larry Page has a new startup exploring how AI can advance aviation manufacturing.\u003C/li\u003E\u003Cli\u003EPage appointed former Kitt… [+7196 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Gatwick second runway decision expected",
+        "description": "If the airport wins permission for its controversial expansion plan, construction would start almost immediately.",
+        "url": "https://www.bbc.com/news/articles/cqjdz9q170yo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d74f/live/8206d660-f2c5-11ef-9e61-71ee71f26eb1.jpg",
+        "publishedAt": "2025-02-27T00:00:15Z",
+        "content": "Sean Dilley, Molly Stazicker and Esme StallardBBC Transport and BBC Climate &amp; Science\r\nA second runway would be fully operational by the end of the decade if plans are approved, Gatwick says\r\nA d… [+5051 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Brian Barrett",
+        "title": "The United States of Elon Musk Inc.",
+        "description": "The degree to which Donald Trump and Elon Musk’s interests are intertwined is unprecedented—and ultimately unsustainable.",
+        "url": "https://www.wired.com/story/elon-musk-donald-trump-doge-congress-takeover/",
+        "urlToImage": "https://media.wired.com/photos/67d21b81e3dd1d52d70b101e/191:100/w_1280,c_limit/politics_newsletter_united_states_musk_inc.jpg",
+        "publishedAt": "2025-03-13T14:00:00Z",
+        "content": "Where do Elon Musks business interests end and Donald Trumps political interests begin? Trick questiontheyre one and the same.\r\nHow else do you explain the jarring sight of the President of the Unite… [+2965 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Archer Aviation stock takes off on new Abu Dhabi air taxi deal",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae8fe17e-715e-4c14-9665-a52ec15e0f3a",
+        "urlToImage": null,
+        "publishedAt": "2025-02-28T20:56:39Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Police get further time to question crash captain",
+        "description": "The Russian national will spend an extra 24 hours in police custody after being arrested on Monday.",
+        "url": "https://www.bbc.com/news/articles/cdel4nxwe5do",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0e50/live/4a16d0b0-00c2-11f0-8c3d-b7dcc7510cb1.jpg",
+        "publishedAt": "2025-03-14T11:27:12Z",
+        "content": "The captain of a cargo ship arrested after a collision in the North Sea is being held in custody for a further 24 hours \"due to the complexities of the incident\", police said.\r\nThe 59-year-old Russia… [+1821 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Andrew Liszewski",
+        "title": "SpaceX’s latest Starship explosion lights up the sky over the Caribbean again",
+        "description": "Stop us if you’ve heard this one before. Similar to the aftermath from SpaceX’s failed seventh test flight on January 16th, yesterday’s explosion following the launch of Starship’s eighth test flight created another spectacle in the night sky as debris rained…",
+        "url": "https://www.theverge.com/news/625826/spacex-starship-rocket-launch-explosion-8th-test-flight-delay",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2203705202.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-07T16:54:46Z",
+        "content": "BOCA CHICA BEACH, TEXAS – MARCH 06: SpaceX Starship Flight 8 prepares for takeoff from Orbital Launch Pad A at Boca Chica beach on March 06, 2025 in Boca Chica Beach, Texas. The SpaceX Starship Fligh… [+3915 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Flying is still safe for now — but the FAA isn’t",
+        "description": "I was on a flight back to New York the other day, and something really odd happened when we landed: the passengers burst into applause. I’ve only ever seen that happen after a flight with really bad turbulence or a big delay. But this was a totally boring fli…",
+        "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/625193/elon-musk-faa-spacex-doge-airplane-crashes",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DCD_0306.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-06T14:35:40Z",
+        "content": "Flying is still safe for now but the FAA isnt\r\nThe FAA is dealing with crashes, layoffs, and outdated tech. Now Elon Musk wants in.\r\nFlying is still safe for now but the FAA isnt\r\nThe FAA is dealing … [+3032 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Lindsay Dodgson",
+        "title": "Fighter jets were alerted to intercept a plane when it stopped communicating — and the pilot got fined over $5,000",
+        "description": "Fighter jets intercepted a flight after the pilot lost radio contact for over 30 minutes during the 2024 incident.",
+        "url": "https://www.businessinsider.com/fighter-jets-intercept-plane-pilot-fined-lost-communication-2025-3",
+        "urlToImage": "https://i.insider.com/67e1366c69253ccddf9a177a?width=1200&format=jpeg",
+        "publishedAt": "2025-03-24T12:25:40Z",
+        "content": "After the incident in 2024, the Scandinavian Airlines plane was met by armed police.JazzIRT/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EA pilot has been fined for losing contact with air traffic control.\u003C/li\u003E\u003Cli\u003EBritain's… [+2067 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Grangemouth: A new dawn for the home of UK's oldest oil refinery?",
+        "description": "Its history was built on fossil fuels - but now the site's future depends on its reinvention as a green energy industrial hub.",
+        "url": "https://www.bbc.com/news/articles/c62x6l5g36lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae30/live/221c5560-00dd-11f0-a8b1-950887ddc6e5.jpg",
+        "publishedAt": "2025-03-17T00:06:04Z",
+        "content": "Kevin KeaneBBC Scotland's environment correspondent\r\nThere is both concern and optimism about the Grangemouth site's long-term future\r\nThe history of Grangemouth has been built on fossil fuels but no… [+5388 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Airlines push back on strict rule that could have big impact on aviation industry: 'Forced to collect their own data'",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf9a4453-d96e-48de-83e9-58a81e08c630",
+        "urlToImage": null,
+        "publishedAt": "2025-03-08T10:30:43Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Russell Lewis",
+        "title": "'There's a serious safety issue', investigators say following DCA mid-air collision",
+        "description": "The January mid-air collision with the Army helicopter happened as the American Airlines jet was about to land at Ronald Reagan Washington National Airport. All 67 people on both aircraft died.",
+        "url": "https://www.npr.org/2025/03/11/nx-s1-5324543/ntsb-dca-mid-air-collision-american-black-hawk",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2Ff3%2Fea73bff94e30ad06a6dca252af52%2Fap25037781609891.jpg",
+        "publishedAt": "2025-03-11T18:55:41Z",
+        "content": "The chairwoman of the National Transportation Safety Board says \"there's a serious safety issue\" in the airspace surrounding Ronald Reagan Washington National Airport. \r\nThe NTSB's Jennifer Homendy c… [+3151 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "North Sea collision ship captain appears in court",
+        "description": "Vladimir Motin, 59, is remanded in custody to appear in court in London on 14 April.",
+        "url": "https://www.bbc.com/news/articles/c20d44dvx0ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c378/live/b1caa440-017e-11f0-83b7-4b99a29889c2.jpg",
+        "publishedAt": "2025-03-15T11:00:30Z",
+        "content": "The captain of a cargo ship that collided with an oil tanker in the North Sea has appeared in court charged with gross negligence manslaughter over the death of a crew member.\r\nThe Portuguese-flagged… [+2024 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "'We go from dinner service to dealing with a corpse' - what happens when an air passenger dies",
+        "description": "Crews will try to shield passengers from the body by using empty aisles, blankets and dim lighting.",
+        "url": "https://www.bbc.com/news/articles/cz9nj075yggo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f40b/live/1a9db6d0-fcd2-11ef-9e61-71ee71f26eb1.jpg",
+        "publishedAt": "2025-03-10T01:34:28Z",
+        "content": "Plane aisles are narrow and space can be tight\r\nIf a passenger dies on board a flight, cabin crew members like Jay Robert have to think fast.\r\n\"We go from service to lifesaving to mortician, dealing … [+7794 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: Southwest plane aborts takeoff after mistaking taxiway for runway",
+        "description": "The latest aviation incident, this time in Orlando, comes as authorities are revealing what they say happened during a fiery crash landing of a Delta Airlines jet in Toronto last month.",
+        "url": "https://abcnews.go.com/GMA/News/video/southwest-plane-aborts-takeoff-after-mistaking-taxiway-runway-120016518",
+        "urlToImage": "https://i.abcnewsfe.com/a/df0a3de8-f474-4aa8-b1d0-15bd46fad0cf/250321_gma_ault_plane1_hpMain_16x9.jpg?w=992",
+        "publishedAt": "2025-03-21T12:10:35Z",
+        "content": "\u003Cul\u003E\u003Cli\u003ELondon Heathrow closed due to fire, power outage\r\n\u003C/li\u003E\u003Cli\u003EMusk to be briefed on possible war with China\r\n\u003C/li\u003E\u003Cli\u003EGrowing concern over Trumps dismantling of DOE\r\n\u003C/li\u003E\u003Cli\u003EJudge slams woefull… [+4360 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Katie Balevic",
+        "title": "This couple's flight was rerouted midair after the SpaceX Starship exploded. They saw flaming debris out their window.",
+        "description": "Mariah Davenport and Dane Siler were flying back to the US when their flight turned around because of the SpaceX rocket explosion.",
+        "url": "https://www.businessinsider.com/couples-flight-rerouted-midair-spacex-starship-exploded-2025-3",
+        "urlToImage": "https://i.insider.com/67ce165f69253ccddf98b741?width=1200&format=jpeg",
+        "publishedAt": "2025-03-09T23:03:10Z",
+        "content": "Mariah Davenport and Dane Siler saw flaming debris out their plane window from the SpaceX Starship explosion.Courtesy of Mariah Davenport and Dane Siler.\r\n\u003Cul\u003E\u003Cli\u003ESpaceX's Starship exploded after its… [+2309 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Passant Rabie",
+        "title": "Watch Live: SpaceX Attempts Starship Flight 8 After Explosion Rained Debris Over the Atlantic",
+        "description": "Monday's test flight will attempt to deploy four Starlink simulators from the megarocket.",
+        "url": "https://gizmodo.com/watch-live-spacex-attempts-starship-flight-8-after-explosion-rained-debris-over-the-atlantic-2000570861",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Starship-flight-test-8.jpeg",
+        "publishedAt": "2025-03-03T20:55:57Z",
+        "content": "SpaceX is gearing up for the eighth test flight of its Starship rocket, hoping to correct course following the explosive mishap that scattered tiny bits of the upper stage over the Atlantic Ocean in … [+3665 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "The US faces ‘devastating’ losses for weather forecasts, federal workers say",
+        "description": "The federal agency that produces weather forecasts and leads research on climate and the oceans has canceled leases for research centers and slashed its staff to “devastating” effect, current and former employees tell The Verge.  Last week, the National Ocean…",
+        "url": "https://www.theverge.com/news/622990/trump-doge-government-layoffs-doge-weather-forecasts-noaa",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK438_CLIMATE_CHANGE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-03T17:25:04Z",
+        "content": "Federal employees are speaking out after the Trump administration slashed staff and office space for the National Oceanic Atmospheric Administration.\r\nFederal employees are speaking out after the Tru… [+4135 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Qatar Airways says crew handled dead passenger' appropriately'",
+        "description": "An Australian couple said it was \"traumatic\" to sit next to the body of the woman who died mid-flight.",
+        "url": "https://www.bbc.com/news/articles/c5y44z9z67po",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83bb/live/fc817810-f58a-11ef-96e1-f3ffcde4e4bd.jpg",
+        "publishedAt": "2025-02-28T05:03:02Z",
+        "content": "Qatar Airways says an internal review has found that its crew \"acted quickly, appropriately and professionally\" when they placed the body of a woman who died mid-flight next to an Australian couple.\r… [+3234 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Scott Neuman",
+        "title": "Up to 3,000 more U.S. troops are ordered to the border with Mexico",
+        "description": "Up to 3,000 additional troops have been ordered to the U.S.-Mexico border by Defense Secretary Pete Hegseth, the latest in President Trump's efforts to prevent illegal crossings.",
+        "url": "https://www.npr.org/2025/03/01/nx-s1-5314368/more-border-troops-mexico",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3708x2086+0+183/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F8f%2F61404d4645d487c80acf9cd0e67c%2Fgettyimages-2197005637.jpg",
+        "publishedAt": "2025-03-01T18:39:19Z",
+        "content": "An additional 2,500 to 3,000 troops have been ordered to the U.S.-Mexico border by Defense Secretary Pete Hegseth, the latest in President Trump's efforts to prevent illegal crossings.\r\nA U.S. offici… [+1274 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Boeing Is Pushing To Withdraw Guilty Plea Agreement",
+        "description": "Boeing is seeking to withdraw an earlier agreement to plead guilty in a long-running criminal case that blamed the company for deceiving regulators before two deadly crashes of 737 MAX jets, WSJ is reporting, citing people familiar with the matter. From the r…",
+        "url": "https://news.slashdot.org/story/25/03/25/189245/boeing-is-pushing-to-withdraw-guilty-plea-agreement",
+        "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
+        "publishedAt": "2025-03-25T18:10:00Z",
+        "content": "The aerospace giant is seeking more lenient treatment from the Justice Department, which under the Trump administration is reviewing numerous pending criminal cases that haven't yet gone to trial or … [+1029 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Taylor Rains",
+        "title": "10 upgrades the FAA says it's making to flying safer",
+        "description": "Transportation Secretary Sean Duffy listed things like using AI to comb through safety reports and replacing old floppy disks with modern technology.",
+        "url": "https://www.businessinsider.com/faa-upgrades-air-safety-dc-crash-2025-3",
+        "urlToImage": "https://i.insider.com/67d0b003b8b41a9673fa57e6?width=1200&format=jpeg",
+        "publishedAt": "2025-03-11T22:01:15Z",
+        "content": "Becoming an air traffic controller is a long and difficult process, and the job is equally stressful. But it comes with good pay.Michael Dwyer/AP\r\n\u003Cul\u003E\u003Cli\u003EThe Department of Transportation announced a… [+4133 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Pete Syme",
+        "title": "Billionaire CEO and climate campaigner says he bought a private jet for personal security — and to be a 'constantly present dad'",
+        "description": "Billionaire private jet use has been in the spotlight in recent months. Mike Cannon-Brookes acknowledged a \"deep internal conflict\" on buying one.",
+        "url": "https://www.businessinsider.com/billionaire-climate-campaigner-explains-bought-private-jet-more-time-security-2025-3",
+        "urlToImage": "https://i.insider.com/67d40da8585f1dff88b224ad?width=1200&format=jpeg",
+        "publishedAt": "2025-03-14T13:03:59Z",
+        "content": "Atlassian cofounder Mike Cannon-Brookes.Brook Mitchell/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EBillionaire Mike Cannon-Brookes said he has a \"deep internal conflict\" over buying a private jet.\u003C/li\u003E\u003Cli\u003EThe Atlassian fo… [+3108 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Associated Press",
+        "title": "American Airlines Plane Catches Fire at Denver Airport Gate",
+        "description": "The 172 passengers and six crew members aboard the plane were taken to the terminal, airline officials said. No injuries were reported.",
+        "url": "https://time.com/7268091/american-airlines-plane-fire-denver-international-airport/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/denver-airport.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2025-03-14T03:40:00Z",
+        "content": "DENVER Twelve people were taken to hospitals after an American Airlines plane landed at Denver International Airport on Thursday and caught fire, prompting slides to be deployed so passengers could e… [+1795 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "US scientists create jet fuel from sunlight making carbon-free aviation reality",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d9b8c0d8-d601-44f6-bf1a-57449cced1ec",
+        "urlToImage": null,
+        "publishedAt": "2025-03-24T20:38:14Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Pilot from Pennsylvania plane crash identified as executive board member of local aviation company",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_22f48b58-d5b0-41a3-b74e-2fb323357833",
+        "urlToImage": null,
+        "publishedAt": "2025-03-10T23:49:27Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Eliza Relman",
+        "title": "Inside the elite world of helicopter commuting: 'It's like a bus to me'",
+        "description": "I took a helicopter from midtown Manhattan to JFK airport in 9 minutes. I may never take an Uber again.",
+        "url": "https://www.businessinsider.com/rich-people-new-york-city-helicopter-commute-avoid-cars-traffic-2025-3",
+        "urlToImage": "https://i.insider.com/67dd98ae69253ccddf99f989?width=1200&format=jpeg",
+        "publishedAt": "2025-03-24T08:12:01Z",
+        "content": "Mark Harris for BI\r\nOn a sunny Wednesday afternoon in late February, Ernesto Tey walked from a meeting on the west side of Manhattan to the heliport at 30th Street on the Hudson River. He was early f… [+14660 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Is Trump reining in Musk after a cabinet showdown with secretaries?",
+        "description": "The president intervenes in a cost-cutting row after a reported showdown between his billionaire adviser and two top officials at the White House.",
+        "url": "https://www.bbc.com/news/articles/cpwd1722yr2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f673/live/41cd8340-fbb3-11ef-9e61-71ee71f26eb1.jpg",
+        "publishedAt": "2025-03-08T03:31:04Z",
+        "content": "Anthony Zurcher\r\nTrump says cabinet will cut staff with Musk 'watching'\r\nUS President Donald Trump called a meeting of his cabinet secretaries on Thursday to discuss Elon Musk and his efforts to slas… [+4872 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "SpaceX loses contact with spacecraft during Starship mega rocket test flight",
+        "description": "Nearly two months after an explosion sent flaming debris raining down on the Turks and Caicos, SpaceX launched another mammoth Starship rocket but lost contact minutes into the test flight.",
+        "url": "https://www.npr.org/2025/03/06/g-s1-52507/spacex-starship-test-flight-boca-chica-texas",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1426x802+0+26/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fb3%2F88325e4f4caf8e883460c11406c7%2Fap25065859279051.jpg",
+        "publishedAt": "2025-03-07T00:47:49Z",
+        "content": "Nearly two months after an explosion sent flaming debris raining down on the Turks and Caicos, SpaceX launched another mammoth Starship rocket on Thursday, but lost contact minutes into the test flig… [+2278 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Rebecca Rosman",
+        "title": "Trump says Boeing will build the new generation of fighter jets, the F-47",
+        "description": "Trump said Boeing had won the contract to build the U.S. Air Force's next generation of fighter jets. Little is known about the jet's specifications, appearance or capabilities.",
+        "url": "https://www.npr.org/2025/03/22/nx-s1-5337416/trump-f47-fighter-jet-boeing",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+625/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fee%2F36f623f94695ba477d0d7dde3275%2Fap25080615848236.jpg",
+        "publishedAt": "2025-03-22T22:19:27Z",
+        "content": "President Trump has announced that Boeing will build the U.S. Air Force's next generation of fighter jets.\r\n\"They will have unprecedented power,\" Trump said on Friday, adding that \"America's enemies … [+2112 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Pete Syme",
+        "title": "Ryanair is totally over passengers behaving badly",
+        "description": "Europe's biggest airline is bringing a private criminal prosecution against a passenger who disrupted a flight then claimed diplomatic immunity.",
+        "url": "https://www.businessinsider.com/ryanair-misbehaving-passengers-planes-criminal-case-2025-3",
+        "urlToImage": "https://i.insider.com/67dbea4263d72727e197bb6d?width=1200&format=jpeg",
+        "publishedAt": "2025-03-20T11:13:40Z",
+        "content": "Ryanair wants passengers to know that it will not tolerate bad behavior on its flights.Fabrizio Gandolfo/SOPA Images/LightRocket via Getty Images\r\n\u003Cul\u003E\u003Cli\u003ERyanair announced that it's taking legal act… [+2506 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Pete Syme",
+        "title": "Map shows the journey-doubling detours 2 Delta flights took to avoid major storms",
+        "description": "The Delta Air Lines flights between Memphis and Atlanta flew the unusual routes as storms hit the South and Midwest.",
+        "url": "https://www.businessinsider.com/delta-flights-detours-avoid-storms-turbulence-2025-3",
+        "urlToImage": "https://i.insider.com/67d80efa69253ccddf996a2f?width=1200&format=jpeg",
+        "publishedAt": "2025-03-17T12:18:20Z",
+        "content": "A Delta Air Lines Boeing 717 like the one flown between Memphis and Atlanta.Nicolas Economou/NurPhoto/Getty\r\n\u003Cul\u003E\u003Cli\u003ETwo Delta Air Lines flights took around twice as long as usual on Saturday.\u003C/li\u003E\u003Cl… [+2238 chars]"
+      },
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Jeremy Hsu",
+        "title": "Experts say US flights are safe now but flag warning signs to look for",
+        "description": "Flying commercially in the US remains low risk despite a recent mid-air collision, near misses and FAA job cuts. But aviation safety experts and former FAA employees identify warning signs that would stop them from flying in the future",
+        "url": "https://www.newscientist.com/article/2471052-experts-say-us-flights-are-safe-now-but-flag-warning-signs-to-look-for/",
+        "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/03/06162643/sei242744234.jpg",
+        "publishedAt": "2025-03-06T21:02:32Z",
+        "content": "On Monday 3 Feb, an American Airlines flight collided with an army helicopter near Washington DC\r\nJabin Botsford/The Washington Post via Getty Images\r\nSafety concerns about flying in the US have rise… [+422 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Clara McMichael, T. Michelle Murphy",
+        "title": "Small plane crashes in Pennsylvania",
+        "description": "The plane went down near a retirement village in Lancaster, Pennsylvania.",
+        "url": "https://abcnews.go.com/US/small-plane-crashes-pennsylvania/story?id=119615364",
+        "urlToImage": "https://i.abcnewsfe.com/a/44f197d6-2e92-4497-b176-b58f7822aed8/news-abc-ml-240415_1713186161851_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-03-09T20:48:38Z",
+        "content": "A Beechcraft Bonanza crashed in Pennsylvania on Sunday afternoon with five people aboard, according to the Federal Aviation Authority.\r\nThe small aircraft went down near a retirement village south of… [+669 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Emily Shapiro, Sam Sweeney, Ayesha Ali",
+        "title": "DC plane crash: NTSB calls for immediate changes at Reagan airport",
+        "description": "Investigators issued their preliminary report Tuesday in the probe into the devastating crash between an American Airlines plane and a U.S. Army Black Hawk helicopter.",
+        "url": "https://abcnews.go.com/US/dc-plane-crash-ntsb-provide-updates-investigation/story?id=119664988",
+        "urlToImage": "https://i.abcnewsfe.com/a/eab3b974-2c7a-4903-b3f3-302ade07b3c6/dc-plane-2-gty-gmh-250311_1741696732987_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-03-11T18:31:07Z",
+        "content": "The National Transportation Safety Board chairman called for immediate changes at Washington, D.C.'s Ronald Reagan Washington National Airport, saying the current helicopter routes around the airport… [+2533 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Brandon Vigliarolo",
+        "title": "JetZero teams up with Delta to drag aviation into the future",
+        "description": "Startup needs tips on fitting its flying surfboard into existing infrastructure\nAirlines around the world continue to look for ways to be more sustainable and efficient without needing to reinvent the wheel – but in the case of Delta Air Lines' new partnershi…",
+        "url": "https://www.theregister.com/2025/03/06/jetzero_delta_partnership/",
+        "urlToImage": "https://regmedia.co.uk/2025/03/06/jetzero-blended-wing-body.jpg",
+        "publishedAt": "2025-03-06T19:01:10Z",
+        "content": "Airlines around the world continue to look for ways to be more sustainable and efficient without needing to reinvent the wheel but in the case of Delta Air Lines' new partnership with JetZero, reinve… [+4300 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Science Daily"
+        },
+        "author": null,
+        "title": "Household electricity three times more expensive than upcoming 'eco-friendly' aviation e-fuels, study reveals",
+        "description": "Existing tax policies during the energy transition from fossil fuels to renewable sources will lead to major energy injustices and skewed priorities, new research shows.",
+        "url": "https://www.sciencedaily.com/releases/2025/03/250323235833.htm",
+        "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "publishedAt": "2025-03-24T03:58:33Z",
+        "content": "Existing tax policies during the energy transition from fossil fuels to renewable sources will lead to major energy injustices and skewed priorities, new research published in Climate Policyshows.The… [+5247 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Richard Speed",
+        "title": "SpaceX receives FAA blessing for another Starship test",
+        "description": "Flying to the Turks and Caicos tonight? Good luck\nSpaceX is set to have another go at launching its monster Starship rocket today after the US Federal Aviation Administration (FAA) gave the venture the green light.…",
+        "url": "https://www.theregister.com/2025/03/03/spacex_faa_starship/",
+        "urlToImage": "https://regmedia.co.uk/2023/04/17/starship-first-orbit-launch.jpg",
+        "publishedAt": "2025-03-03T14:04:33Z",
+        "content": "SpaceX is set to have another go at launching its monster Starship rocket today after the US Federal Aviation Administration (FAA) gave the venture the green light.\r\nThe FAA has issued a license modi… [+2199 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matthew Gault",
+        "title": "Lawmakers Demand Answers From Rubio Over the $400 Million Armored Tesla Contract",
+        "description": "A Senator and a Congressman have sent letters to the Secretary of State demanding he answer questions about a scandal that probably doesn’t exist.",
+        "url": "https://gizmodo.com/lawmakers-demand-answers-from-rubio-over-the-400-million-armored-tesla-contract-2000573841",
+        "urlToImage": "https://gizmodo.com/app/uploads/2022/04/f6565bafdba3fb884da94179c52f735e.jpg",
+        "publishedAt": "2025-03-10T16:10:32Z",
+        "content": "Politicians are pressing Secretary of State Marco Rubio to answer questions about a government contract for armored Teslas that never existed. Sen. Richard Blumenthal (D-NY) and Congressman Gregory M… [+6127 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Allison Stanger, Middlebury, The Conversation",
+        "title": "DOGE Threat: How Government Data Would Give an AI Company Extraordinary Power",
+        "description": "U.S. executives have complained that China's centralized system gives its AI efforts access to extraordinary government data.",
+        "url": "https://gizmodo.com/doge-threat-how-government-data-would-give-an-ai-company-extraordinary-power-2000573609",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/elon_musk_protest.jpg",
+        "publishedAt": "2025-03-09T19:15:19Z",
+        "content": "The Department of Government Efficiency, or DOGE, has secured unprecedented access to at least seven sensitive federal databases, including those of the Internal Revenue Service and Social Security A… [+8689 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Passengers evacuate burning American Airlines flight",
+        "description": "Footage shows passengers huddled on the wing of the commercial airliner, which was on the tarmac, as flames burn under the aircraft.",
+        "url": "https://www.bbc.com/news/articles/c981j6e34wwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4621/live/8f404bc0-0073-11f0-8c3d-b7dcc7510cb1.jpg",
+        "publishedAt": "2025-03-14T01:43:18Z",
+        "content": "Passengers on an American Airlines flight were evacuated onto the tarmac of a Colorado airport as a fire broke out on the plane, sending smoke billowing into the air. \r\nNo injuries were reported in t… [+391 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "David Shepardson",
+        "title": "US senator asks Rubio to answer questions on planned Tesla Cybertruck purchase",
+        "description": "WASHINGTON (Reuters) -Democratic Senator Richard Blumenthal on Monday asked U.S. Secretary of State Marco Rubio to answer questions about a reported plan to ...",
+        "url": "https://ca.news.yahoo.com/us-senator-asks-rubio-answer-204057277.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/7656f3e47ccfd378997bafb23b9f433e",
+        "publishedAt": "2025-03-03T20:40:57Z",
+        "content": "By David Shepardson\r\nWASHINGTON (Reuters) -Democratic Senator Richard Blumenthal on Monday asked U.S. Secretary of State Marco Rubio to answer questions about a reported plan to spend $400 million to… [+1834 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "trains@insider.com (Taylor Rains)",
+        "title": "A Southwest plane almost took off from a taxiway instead of the runway",
+        "description": "The Southwest jet appears to have mistakenly accelerated on a taxiway that runs parallel to Runway 17R,  reaching about 70 knots before slowing.",
+        "url": "https://www.businessinsider.com/southwest-plane-almost-take-off-taxiway-orlando-2025-3",
+        "urlToImage": "https://i.insider.com/67dd682f69253ccddf99edbf?width=1200&format=jpeg",
+        "publishedAt": "2025-03-21T13:36:17Z",
+        "content": "An air traffic controller instructed a Southwest Airlines jet to abort its takeoff on Thursday after it began to accelerate on a taxiway instead of a runway at Orlando International Airport. \r\nThe Fe… [+2632 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Alejandra Borunda",
+        "title": "Trump administration layoffs hit NOAA, agency that forecasts weather, hurricanes",
+        "description": "The National Oceanic and Atmospheric Administration houses key groups like the National Weather Service. Experts warn the consequences of employee cuts could be drastic.",
+        "url": "https://www.npr.org/2025/02/27/nx-s1-5298738/trump-administration-layoffs-hit-noaa-the-agency-that-forecasts-weather-and-hurricanes",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F9a%2F1887be6344cdb28581743d5d8c75%2Fgettyimages-2160108792.jpg",
+        "publishedAt": "2025-02-28T04:18:53Z",
+        "content": "The National Oceanic and Atmospheric Administration began firing staff on Thursday, continuing a wave of government-wide layoffs ordered by the Trump administration. The terminations, which include s… [+7504 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "mwall@space.com (Mike Wall)",
+        "title": "SpaceX gets FAA approval for Flight 8 of Starship megarocket",
+        "description": "SpaceX has received approval from the U.S Federal Aviation Administration for Flight 8 of its Starship megarocket, which is targeted for Monday (March 3).",
+        "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-flight-8-of-starship-megarocket",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wGgVghf9a4faZi2wrSemSM-1200-80.jpg",
+        "publishedAt": "2025-02-28T20:00:00Z",
+        "content": "SpaceX now has permission to launch its Starship megarocket for the eighth time.\r\nElon Musk's company is targeting Monday evening (March 3) for Flight 8 of Starship, which will lift off from Starbase… [+2406 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Taylor Rains,Pete Syme",
+        "title": "Heathrow Airport closure may cost airlines hundreds of millions of dollars — and could have been even worse.",
+        "description": "Travel experts say the chaos could cost airlines hundreds of millions of dollars in lost revenue. Luckily, Heathrow is already restarting flights.",
+        "url": "https://www.businessinsider.com/heathrow-airport-power-outage-ccould-cost-airlines-millions-2025-3",
+        "urlToImage": "https://i.insider.com/67ddaabbb8b41a9673fb64aa?width=1200&format=jpeg",
+        "publishedAt": "2025-03-21T18:47:54Z",
+        "content": "Stranded passengers at Heathrow Terminal 5 in London amid Friday's travel chaos. James Manning - PA Images/PA Images/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EHeathrow Airport shut down due to a fire, disrupting flights… [+7096 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Sam Sweeney, Ayesha Ali, T. Michelle Murphy",
+        "title": "American Airlines flight catches fire at Denver airport",
+        "description": "The incident involving an American Airlines plane took place Thursday evening at Denver International Airport.",
+        "url": "https://abcnews.go.com/US/american-airlines-flight-catches-fire-denver-airport/story?id=119778081",
+        "urlToImage": "https://i.abcnewsfe.com/a/0325f485-c6fe-43f3-a2d2-8d8ce4f5c45a/denver-plane-gty-gmh-250313_1741916823575_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-03-14T01:50:55Z",
+        "content": "An American Airlines plane caught fire at Denver International Airport in Colorado on Thursday.\r\nThe Boeing 737-800 plane was diverted to Denver shortly after departing from Colorado Springs, Colorad… [+1011 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Taylor Rains",
+        "title": "Frontier is offering free bags to entice angry Southwest flyers",
+        "description": "Frontier's summer free bag promotion starts the same day Southwest will end its famous policy.",
+        "url": "https://www.businessinsider.com/frontier-airlines-free-bags-southwest-fees-2025-3",
+        "urlToImage": "https://i.insider.com/67d979d5585f1dff88b26e85?width=1200&format=jpeg",
+        "publishedAt": "2025-03-18T14:24:04Z",
+        "content": "Frontier Airlines is offering free checked bags this summer in a clear jab at rival Southwest.Kevin Carter/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EFrontier will offer free checked bags this summer to capitalize on Sou… [+2823 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Theron Mohamed",
+        "title": "Warren Buffett is giving $1 million to a worker who called 44 of the first 45 games in March Madness",
+        "description": "A Berkshire Hathaway employee has bagged Warren Buffett's $1 million prize after calling 31 of the first 32 games in March Madness.",
+        "url": "https://www.businessinsider.com/warren-buffett-march-madness-prize-winner-berkshire-basketball-tournament-bracket-2025-3",
+        "urlToImage": "https://i.insider.com/66362c01ec0c69656901187b?width=1200&format=jpeg",
+        "publishedAt": "2025-03-25T14:08:36Z",
+        "content": "Warren Buffett's annual March Madness bracket challenge finally has a $1 million prize winner. REUTERS/Rick Wilking\r\n\u003Cul\u003E\u003Cli\u003EWarren Buffett's March Madness bracket challenge finally has a winner of i… [+2546 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Internet"
+        },
+        "author": "info@thehackernews.com (The Hacker News)",
+        "title": "Suspected Iranian Hackers Used Compromised Indian Firm's Email to Target U.A.E. Aviation Sector",
+        "description": "Threat hunters are calling attention to a new highly-targeted phishing campaign that singled out \"fewer than five\" entities in the United Arab Emirates (U.A.E.) to deliver a previously undocumented Golang backdoor dubbed Sosano.\nThe malicious activity was spe…",
+        "url": "https://thehackernews.com/2025/03/suspected-iranian-hackers-used.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW7UyQFj0PRmx5Azjmqm_JoOkh8VIPUjROhfFtfPnFdIgrcFoAmt9GbYPY3LAXzYw3E5Y_wnBbKhuaaLm6tYGWEupaQMmJBbQcGwj2N_GrLJSTzlRKhhaeU2Sr0WNm9RMq7H0ixxvwHC2tKmEw7p3juEqZtFVrYlAiAcuIE7bwhyphenhyphenrmPwX96IV0wlsetDxQ/s728-rw-e365/aviation.png",
+        "publishedAt": "2025-03-04T09:58:00Z",
+        "content": "Threat hunters are calling attention to a new highly-targeted phishing campaign that singled out \"fewer than five\" entities in the United Arab Emirates (U.A.E.) to deliver a previously undocumented G… [+3717 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "SpaceX’s Starship explodes in latest launch setback for Elon Musk",
+        "description": "Aviation regulator diverts flights from four airports in Florida to avoid falling debris.",
+        "url": "https://www.aljazeera.com/economy/2025/3/7/spacexs-starship-explodes-in-latest-launch-setback-for-elon-musk",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/AP25065855968192-1741312354_b4763f-1741316640.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2025-03-07T03:21:49Z",
+        "content": "SpaceXs Starship has exploded shortly after takeoff in the second launch failure this year for Elon Musks interplanetary exploration programme.\r\nBut Musks rocket company was able to successfully retu… [+2146 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Nik Popli",
+        "title": "Mass Layoffs at NOAA Spark Concerns Over Weather, Climate Research",
+        "description": "The firings come just as the U.S. braces for a potentially intense season of extreme weather.",
+        "url": "https://time.com/7262974/noaa-layoffs-climate-research-weather/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/GettyImages-2160108580.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2025-02-28T21:33:41Z",
+        "content": "The Trump Administration has begun firing probationary employees at the federal agency tasked with overseeing weather prediction and climate research, raising concerns about the nations ability to ac… [+5980 chars]"
+      },
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Lily Burrill",
+        "title": "Traveling Can Be Just Plain Uncomfy — Here Are 30 Products That Can Help",
+        "description": "If you struggle with that \"popping\" feeling you get in your ears after takeoff and landing hours ~after~ your flight, you need these special ear plugs.View Entire Post ›",
+        "url": "https://www.buzzfeed.com/lily_burrill/traveling-plain-uncomfy-products-to-help",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-02/25/00/thumb/cvA9gDugV.jpg?crop=2000:1050;0,0%26downsize=1250:*",
+        "publishedAt": "2025-03-22T00:31:02Z",
+        "content": "P.S. Bose is known for making top-tier quality headphones for pilots in the aviation industry, so you know you're getting the best of the best even if you're just a passenger! \r\nPromising review: \"Th… [+966 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Atlantic"
+        },
+        "author": "Isaac Stanley-Becker",
+        "title": "The FAA’s Troubles Are More Serious Than You Know",
+        "description": "The agency responsible for air safety is facing deep cuts and interference by Elon Musk.",
+        "url": "https://www.theatlantic.com/politics/archive/2025/03/faa-trump-elon-plane-crash/681975/",
+        "urlToImage": "https://cdn.theatlantic.com/thumbor/N7XS6u-D8dssmFh2yI37ZhVcEqo=/0x103:4835x2621/1200x625/media/img/mt/2025/03/GettyImages_2197414404_1/original.jpg",
+        "publishedAt": "2025-03-09T11:30:00Z",
+        "content": "On January 29, American Airlines Flight 5342 collided with a U.S. Army helicopter near Washington’s Ronald Reagan National Airport, killing 67 people, in the deadliest U.S. air disaster in recent his… [+15673 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HYPEBEAST"
+        },
+        "author": "info@hypebeast.com (Hypebeast)",
+        "title": "Beyond Aero Advances Hydrogen-Electric Jet with Key Refinements",
+        "description": "Beyond Aero has unveiled a refined version of its hydrogen-electric light jet, the BYA-1, incorporating engineering advancements to enhance safety, efficiency and certification readiness. The company remains on track with its goal to deliver the first certifi…",
+        "url": "https://hypebeast.com/2025/3/beyond-aero-hydrogen-electric-jet-info",
+        "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F03%2F19%2Fbeyond-aero-hydrogen-electric-jet-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+        "publishedAt": "2025-03-19T08:30:31Z",
+        "content": "Beyond Aero has unveiled a refined version of its hydrogen-electric light jet, the BYA-1, incorporating engineering advancements to enhance safety, efficiency and certification readiness. The company… [+1790 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New Atlas"
+        },
+        "author": "Abhimanyu Ghoshal",
+        "title": "Joby is launching eVTOL taxis in the UK to get you to airports on time",
+        "description": "California-based eVTOL startup Joby Aviation is gearing up to fly people from UK airports to nearby cities in England in little air taxis at 200 mph (322 km/h), in partnership with long-haul carrier Virgin Atlantic.Continue ReadingCategory: Aircraft, Transpor…",
+        "url": "https://newatlas.com/aircraft/joby-200mph-air-taxi-uk-virgin-atlantic/",
+        "urlToImage": "https://assets.newatlas.com/dims4/default/4e66ddf/2147483647/strip/true/crop/1400x735+0+99/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Fa3%2F1ffa65944972a55067fa5a504650%2Fjobys-electric-aircraft-features-six-rotors-for-vertical-take-off-and-200mph-speeds-and-seats-five.jpg&na.image_optimisation=0",
+        "publishedAt": "2025-03-17T12:17:21Z",
+        "content": "California-based eVTOL startup Joby Aviation is gearing up to fly people from UK airports to nearby cities in England in little air taxis at 200 mph (322 km/h), in partnership with long-haul carrier … [+2507 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Iain Thomson",
+        "title": "Please fasten your seatbelts. A third of US air traffic control systems are 'unsustainable'",
+        "description": "And the FAA's modernization efforts are going so badly they won't exit turbulence any time soon\nOver a third of the USA’s air traffic control systems are in an “unsustainable\" state, and the FAA's decades-long project to upgrade them is not going well.…",
+        "url": "https://www.theregister.com/2025/03/05/faa_air_traffic_control/",
+        "urlToImage": "https://regmedia.co.uk/2025/03/04/shutterstock_air_traffic_control.jpg",
+        "publishedAt": "2025-03-05T00:37:41Z",
+        "content": "Over a third of the USAs air traffic control systems are in an unsustainable\" state, and the FAA's decades-long project to upgrade them is not going well.\r\nThat concerning situation was described on … [+3670 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Two women who spied for Russia tracked down and named by BBC",
+        "description": "Bulgarian nationals Cvetelina Gencheva and Tsvetanka Doncheva worked with six spies convicted in London.",
+        "url": "https://www.bbc.com/news/articles/cqx0v599wqvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f543/live/0898d600-08a7-11f0-88b7-5556e7b55c5e.jpg",
+        "publishedAt": "2025-03-24T18:00:09Z",
+        "content": "Daniel De Simone, Chris Bell, Tom Beal and Nikolai Atefie\r\nCvetelina Gencheva (L) and Tsvetanka Doncheva (R)\r\nTwo women who were part of a Russian spy network run from the UK are named for the first … [+10073 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Musk says first mission to Mars will launch next year",
+        "description": "The billionaire says an unmanned mission by his SpaceX \"Starship\" vehicle will be followed by human landings as early as 2029.",
+        "url": "https://www.bbc.com/news/articles/cx2g88y52y8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fae2/live/b65ddfa0-018c-11f0-8c3d-b7dcc7510cb1.jpg",
+        "publishedAt": "2025-03-15T11:16:03Z",
+        "content": "SpaceX founder Elon Musk has said his Starship rocket will head to Mars by the end of next year, as the company investigates several recent explosions in flight tests.\r\nHuman landings could begin as … [+1693 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Jon Haworth",
+        "title": "London’s Heathrow Airport ‘fully operational’ after fire causes travel chaos",
+        "description": "London’s Heathrow Airport announced Saturday that it is “open and fully operational” and flights have resumed after a fire at an electrical substation knocked out power.",
+        "url": "https://abcnews.go.com/International/londons-heathrow-airport-fully-operational-after-fire-causes/story?id=120052223",
+        "urlToImage": "https://i.abcnewsfe.com/a/175345ec-6691-41b3-8d10-dbd5e7abdf3d/heathrow-service-resumes_1742635758305_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-03-22T09:36:19Z",
+        "content": "LONDON -- Londons Heathrow Airport announced Saturday morning that it is open and fully operational and flights have resumed after a fire at an electrical substation knocked out power to Europes busi… [+2020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NASA"
+        },
+        "author": "Kelly M. Matter",
+        "title": "NASA Glenn Accepts Aviation Award for “NEAT” Facility",
+        "description": "Each year, Aviation Week (AW) Network recognizes a limited number of innovators who achieve extraordinary accomplishments in the global aerospace arena with AW’s prestigious Laureate Award. These innovators represent the values and vision of the global aerosp…",
+        "url": "https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-accepts-aviation-award-for-neat-facility/",
+        "urlToImage": "https://www.nasa.gov/wp-content/uploads/2025/03/grc-2015-c-07729.jpg",
+        "publishedAt": "2025-03-12T12:10:49Z",
+        "content": "Each year, Aviation Week (AW) Network recognizes a limited number of innovators who achieve extraordinary accomplishments in the global aerospace arena with AWs prestigious Laureate Award. These inno… [+1725 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "CHRISTOPHER BODEEN",
+        "title": "'Filled with arrogance': China lashes out at G7 over statements on maritime security",
+        "description": "China has lashed out at accusations it is endangering maritime safety made by top diplomats from the Group of 7 industrialized democracies in a joint...",
+        "url": "https://www.yahoo.com/news/filled-arrogance-china-lashes-g7-084102757.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_LxU_h5g2yiXfzuac0kBgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://media.zenfs.com/en/ap.org/70e6f8e54bb622f2303284dca9326752",
+        "publishedAt": "2025-03-15T08:41:02Z",
+        "content": "TAIPEI, Taiwan (AP) China has lashed out at accusations it is endangering maritime safety made by top diplomats from the Group of 7 industrialized democracies in a joint statement, saying the G7 memb… [+3192 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "William Gavin",
+        "title": "SpaceX says there's 'no intent' to take over Verizon's $2.4 billion FAA contract",
+        "description": "SpaceX on Wednesday denied that it’s looking to take over a $2.4 billion Federal Aviation Administration (FAA) contract. Instead, Elon Musk’s company thinks its Starlink can support Verizon’s (VZ) modernization efforts.Read more...",
+        "url": "https://qz.com/spacex-starlink-verizon-faa-contract-elon-musk-1851767924",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b429bdb855e2dab281ff9780d82d8c47.jpg",
+        "publishedAt": "2025-03-05T21:08:00Z",
+        "content": "In This Story\r\nSpaceX on Wednesday denied that its looking to take over a $2.4 billion Federal Aviation Administration (FAA) contract. Instead, Elon Musks company thinks its Starlink can support Veri… [+2669 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "William Gavin",
+        "title": "The FAA reportedly ordered staff to find tens of millions of dollars for a deal with Elon Musk's Starlink",
+        "description": "The Federal Aviation Administration (FAA) reportedly ordered employees to find tens of millions of dollars for a deal with Starlink as Elon Musk’s SpaceX takes a role at the air safety agency. Read more...",
+        "url": "https://qz.com/faa-starlink-elon-musk-doge-spacex-verizon-air-safety-1851767296",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b36687b0ecbd20d872422c0840110d2a.jpg",
+        "publishedAt": "2025-03-03T14:46:00Z",
+        "content": "In This Story\r\nThe Federal Aviation Administration (FAA) reportedly ordered employees to find tens of millions of dollars for a deal with Starlink as Elon Musks SpaceX takes a role at the air safety … [+2563 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ericbutton.co"
+        },
+        "author": "Eric Button",
+        "title": "We in-housed our data labelling",
+        "description": "We in-housed our data labelling and it's the best thing we did",
+        "url": "https://www.ericbutton.co/p/data-labelling",
+        "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d8e51d7-a780-408a-8a7a-adbf3aad563b_1500x1000.jpeg",
+        "publishedAt": "2025-02-27T18:53:44Z",
+        "content": "At Enhanced Radar, weve developed Yeager, a SOTA model that understands air traffic control audio, and we continue to develop other AI models for aviation applications. Due to the industry-specific t… [+8370 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Pilot and 2 children survive a night on airplane wing after crashing into Alaska lake",
+        "description": "A pilot and two girls survived on the wing of a plane for about 12 hours after it crashed and was partially submerged in an icy Alaska lake, then were rescued after being spotted by a good Samaritan.",
+        "url": "https://www.npr.org/2025/03/26/g-s1-55929/alaska-plane-lake-rescue-children",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Fec%2F6a5dd38e4e03bf11f9838e34b97e%2Fap25084775909673.jpg",
+        "publishedAt": "2025-03-26T04:23:25Z",
+        "content": "ANCHORAGE, Alaska A pilot and two girls survived on the wing of a plane for about 12 hours after it crashed and was partially submerged in an icy Alaska lake, then were rescued after being spotted by… [+4729 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Geoff Brumfiel",
+        "title": "Elon Musk's Starship rocket prepares to fly again",
+        "description": "The latest test of Starship comes after an explosion over the Caribbean sent commercial airlines scattering to avoid falling rocket debris",
+        "url": "https://www.npr.org/2025/03/03/nx-s1-5316333/elon-musks-starship-rocket-prepares-to-fly-again",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4772x2684+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F5e%2F664e6e81440b8e77a701c16c8663%2Fap25062041807349.jpg",
+        "publishedAt": "2025-03-03T19:33:05Z",
+        "content": "A little over a month after a catastrophic failure peppered the Caribbean with falling debris, Elon Musk's company SpaceX is readying another flight test of the largest rocket ever built.\r\nKnown as S… [+3792 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Constantine Atlamazoglou",
+        "title": "It's now a lot easier for this strategic island pulling away from Moscow to ditch its Russian weapons and buy American",
+        "description": "The US and Cyprus are forging closer ties. New agreements let the strategic Mediterranean island nation more easily buy US weapons.",
+        "url": "https://www.businessinsider.com/strategic-island-cyprus-more-easily-swap-russian-weapons-for-american-2025-3",
+        "urlToImage": "https://i.insider.com/67c7972069253ccddf9848ae?width=965&format=jpeg",
+        "publishedAt": "2025-03-06T00:16:02Z",
+        "content": "Cyprus and the US have grown closer in recent years, with the former looking to replace its Russian weapons.Maj. Robert Fellingham/12th Combat Aviation Brigade\r\n\u003Cul\u003E\u003Cli\u003ECyprus has been realigning its… [+5545 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "MARCIA DUNN / AP",
+        "title": "SpaceX Test Flight Explodes, Again",
+        "description": "Another Starship rocket came tumbling down and broke apart over Florida on Thursday, nearly two months after a launch explosion sent flaming debris raining down on the Turks and Caicos.",
+        "url": "https://time.com/7265486/spacex-test-flight-explosion/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/spacex-starship.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2025-03-07T02:15:00Z",
+        "content": "Nearly two months after an explosion sent flaming debris raining down on the Turks and Caicos, SpaceX launched another mammoth Starship rocket on Thursday, but lost contact minutes into the test flig… [+2885 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Morgan McFall-Johnsen",
+        "title": "Meteorologists say Trump's cuts are going to make weather forecasts way worse",
+        "description": "The Trump administration fired hundreds of NOAA employees. Meteorologists are worried that weather forecasts will suffer and people could die.",
+        "url": "https://www.businessinsider.com/meteorologists-say-noaa-nws-staff-cuts-make-weather-forecasts-worse-2025-2",
+        "urlToImage": "https://i.insider.com/67c210d3b8b41a9673f95942?width=1200&format=jpeg",
+        "publishedAt": "2025-02-28T19:47:00Z",
+        "content": "Hurricane Milton is one of many recent storms where lives were surely saved by NWS forecasts.AP Photo/Rebecca Blackwell\r\n\u003Cul\u003E\u003Cli\u003EThe Trump administration let go hundreds of workers at the National Oc… [+4000 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Taylor Rains",
+        "title": "Airbus' rarest plane is about to fly to more places — here's where you can catch it",
+        "description": "People who hope to experience Airbus' ultra-rare A330-800neo can board in about three dozen cities worldwide this year.",
+        "url": "https://www.businessinsider.com/airbus-rare-jetliner-a330neo-flying-more-places-airlines-2025-3",
+        "urlToImage": "https://i.insider.com/67ddb681b8b41a9673fb6743?width=1200&format=jpeg",
+        "publishedAt": "2025-03-22T11:15:01Z",
+        "content": "Airbus' ultra-rare A330-800neo only flies a few dozen routes worldwide.Airbus\r\n\u003Cul\u003E\u003Cli\u003EAirbus' worst-selling A330-800neo is expanding to more routes.\u003C/li\u003E\u003Cli\u003EThe jet is unpopular due to its higher se… [+5016 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Tom Porter",
+        "title": "Russia is dangling the prospect of major economic deals with the US, while pursuing its aggressive goals in Ukraine",
+        "description": "Russia is raising tantalizing economic deals with the US in Ukraine peace talks. Space, Arctic economic exploration, and energy are potential areas.",
+        "url": "https://www.businessinsider.com/russia-dangles-economic-deals-us-putin-trump-pursuing-ukraine-goals-2025-3",
+        "urlToImage": "https://i.insider.com/6791200e10c98eace9136b2b?width=1200&format=jpeg",
+        "publishedAt": "2025-03-26T12:42:50Z",
+        "content": "President Donald Trump and Russian President Vladimir Putin shake hands in Helsinki in July 2018.AP Photo/Pablo Martinez Monsivais, File\r\n\u003Cul\u003E\u003Cli\u003ERussia is raising tantalizing economic deals with the… [+5208 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NASA"
+        },
+        "author": "NASA Science Editorial Team",
+        "title": "2025 Aviation Weather Mission: Civil Air Patrol Cadets Help Scientists Study the Atmosphere with GLOBE Clouds",
+        "description": "The Science Activation Program’s NASA Earth Science Education Collaborative (NESEC) is working alongside the Civil Air Patrol (CAP) to launch the 2025 Aviation Weather Mission. The mission will engage cadets (students ages 11-20) and senior members to collect…",
+        "url": "https://science.nasa.gov/learning-resources/science-activation/2025-aviation-weather-mission-civil-air-patrol-cadets-help-scientists-study-the-atmosphere-with-globe-clouds/",
+        "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/Photo2_CAPAviationWeather-Theresa_Schwerin.jpg",
+        "publishedAt": "2025-03-04T21:32:39Z",
+        "content": "The Science Activation Programs NASA Earth Science Education Collaborative (NESEC) is working alongside the Civil Air Patrol (CAP) to launch the 2025 Aviation Weather Mission. The mission will engage… [+1759 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New Atlas"
+        },
+        "author": "Loz Blain",
+        "title": "Next-gen clean jet promises 5X the range of battery-electric",
+        "description": "French company Beyond Aero has released an updated design for the zero-emissions jet it's aiming to put into service by 2030, claiming it'll be considerably cheaper to run than conventional jets, while cutting cabin noise by half.Continue ReadingCategory: Air…",
+        "url": "https://newatlas.com/aircraft/beyond-aero-bya1/",
+        "urlToImage": "https://assets.newatlas.com/dims4/default/e8689e1/2147483647/strip/true/crop/2572x1350+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff3%2Fc3%2F02ec09ed4578808d02da2157445e%2Fbya-one.jpg&na.image_optimisation=0",
+        "publishedAt": "2025-03-25T06:00:04Z",
+        "content": "French company Beyond Aero has released an updated design for the zero-emissions jet it's aiming to put into service by 2030, claiming it'll be considerably cheaper to run than conventional jets, whi… [+4773 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Project Syndicate"
+        },
+        "author": "Sylvain Duranton",
+        "title": "What AI Can Learn From Aviation Safety",
+        "description": "Generative AI presents unpredictable risks, from data breaches to manipulated outputs, rendering traditional security models obsolete. Just as the aviation industry gained public trust by adopting rigorous safety protocols, AI companies must identify and addr…",
+        "url": "https://www.project-syndicate.org/commentary/ai-industry-must-adopt-robust-safety-protocols-by-sylvain-duranton-and-vanessa-lyon-2025-03",
+        "urlToImage": "https://webapi.project-syndicate.org/library/45df49dede55255cb70c9448cc17dde3.2-1-super.1.jpg",
+        "publishedAt": "2025-03-19T15:22:52Z",
+        "content": "Generative AI presents unpredictable risks, from data breaches to manipulated outputs, rendering traditional security models obsolete. Just as the aviation industry gained public trust by adopting ri… [+421 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Points Guy"
+        },
+        "author": "Ben Mutzabaugh",
+        "title": "‘The Day Southwest Died’: Reactions pour in about the carrier’s big changes",
+        "description": "“The Day Southwest Died.” That was the Cranky Flier headline as the popular aviation site ruminated on Southwest Airlines’ decision to add bag fees — as well as a raft of other changes tucked into the announcement. Hyperbole? Not this time. The theme was a co…",
+        "url": "https://thepointsguy.com/news/is-this-still-the-same-southwest-airlines/",
+        "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2025/03/Philly-Nashville-American-Southwest-BNA-24.jpg",
+        "publishedAt": "2025-03-12T14:10:32Z",
+        "content": "\"The Day Southwest Died.\"\r\nThat was the Cranky Flier headline as the popular aviation site ruminated on Southwest Airlines' decision to add bag fees as well as a raft of other changes tucked into the… [+3793 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Points Guy"
+        },
+        "author": "Sean Cudahy",
+        "title": "Delays up, passenger traffic down at DCA following Jan. 29 crash, government layoffs",
+        "description": "About four in 10 flights were delayed or canceled last month at Ronald Reagan Washington National Airport (DCA) as disruptions persisted in the wake of the deadliest U.S. commercial airline crash in more than two decades. The Federal Aviation Administration c…",
+        "url": "https://thepointsguy.com/news/reagan-national-airport-delays-up-passenger-traffic-down/",
+        "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/12/20241220_Plane-Spotting-Assorted_SCudahy-26.jpg",
+        "publishedAt": "2025-03-22T12:00:40Z",
+        "content": "About four in 10 flights were delayed or canceled last month at Ronald Reagan Washington National Airport (DCA) as disruptions persisted in the wake of the deadliest U.S. commercial airline crash in … [+5356 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "DOGE Prepares to Cancel Lease for Vital Weather Forecasting Center",
+        "description": "Who needs weather forecasts anyway?",
+        "url": "https://gizmodo.com/doge-prepares-to-cancel-lease-for-vital-weather-forecasting-center-2000571081",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/DOGE-NOAA-silver-spring-MD-March-3-2025.jpg",
+        "publishedAt": "2025-03-04T13:09:05Z",
+        "content": "The White House is preparing to cancel the leases for important weather forecasting offices, including the NOAA Center for Weather and Climate Prediction in College Park, Maryland, according to new r… [+2468 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Victoria Chamberlin, Sean Rameswaram",
+        "title": "Should I get on an airplane?",
+        "description": "Since Christmas Day, four commercial jets have crashed, killing nearly 300 people and injuring many others. Harrowing images — of the explosion over the Potomac after a Black Hawk helicopter collided with a plane, and of a Delta flight upside-down on the runw…",
+        "url": "https://www.vox.com/podcasts/401799/airplane-crash-safety-faa-firings",
+        "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25013557/GettyImages_1544679552.jpeg?quality=90&strip=all&crop=0%2C10.729279508242%2C100%2C78.541440983517&w=1200",
+        "publishedAt": "2025-02-27T19:59:11Z",
+        "content": "Since Christmas Day, four commercial jets have crashed, killing nearly 300 people and injuring many others. Harrowing images — of the explosion over the Potomac after a Black Hawk helicopter collided… [+4826 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Malaysia green-lights new MH370 search in Indian Ocean",
+        "description": "Malaysia's cabinet approves a fresh search for the missing plane by exploration firm Ocean Infinity.",
+        "url": "https://www.bbc.com/news/articles/c2erydmm3lzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/466c/live/3c6c3270-04b9-11f0-97d3-37df2b293ed1.jpg",
+        "publishedAt": "2025-03-19T12:47:51Z",
+        "content": "The Malaysian cabinet has approved a fresh search for the wreckage of Malaysia Airlines flight MH370, more than a decade after the aircraft vanished.\r\nThe search will cover a 15,000 sq km area in the… [+2508 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Gaurav Sharma, Senior Contributor, \n Gaurav Sharma, Senior Contributor\n https://www.forbes.com/sites/gauravsharma/",
+        "title": "European Startup Says Electric Aviation Isn’t Just Possible But Profitable",
+        "description": "The idea of electric planes seems farfetched to many but Munich-based Vaeridion says its microliner concept for carbon neutral short-haul travel will defy skeptics.",
+        "url": "https://www.forbes.com/sites/gauravsharma/2025/03/06/european-startup-says-electric-aviation-isnt-just-possible-but-profitable/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c95071bfae117509653604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-03-06T14:20:47Z",
+        "content": "Vaeridion's electric microliner aircraft concept.\r\nVaeridion, 2024\r\nDespite the aviation industrys bid to cut carbon emissions, the idea of electric planes seems farfetched to many. But Munich, Germa… [+8664 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Lewin Day",
+        "title": "Conservationists Are Flying Microlites To Teach Birds How To Migrate",
+        "description": "When it comes to what birds have and what humans don’t, your mind might first land on the ability to fly. However, birds are also pretty good at navigating from the air… assuming, that …",
+        "url": "https://hackaday.com/2025/03/10/conservationists-are-flying-microlites-to-teach-birds-how-to-migrate/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/03/Migration-2023_Laura-Pahnke-4-1-scaled-1.jpg",
+        "publishedAt": "2025-03-10T17:00:06Z",
+        "content": "When it comes to what birds have and what humans don’t, your mind might first land on the ability to fly. However, birds are also pretty good at navigating from the air… assuming, that is, they know … [+5109 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Ryan Pickrell",
+        "title": "CEO shares secret to creating this unique aircraft the Navy is investing over $7 million in to fly parts to broken warships",
+        "description": "The unusual Transwing aircraft design has the Navy's interest. The PteroDynamics CEO told BI the trick to creating it came from outside the industry.",
+        "url": "https://www.businessinsider.com/pterodynamics-ceo-shares-secret-to-transwing-vtol-aircraft-innovation-2025-3",
+        "urlToImage": "https://i.insider.com/67d6dc4fb8b41a9673facba1?width=1200&format=jpeg",
+        "publishedAt": "2025-03-20T08:27:02Z",
+        "content": "PteroDynamics makes the Transwing, as seen here in the X-P4 model. The wings can fold around the fuselage, remain halfway open, or move to full fixed-wing flight.Courtesy of PteroDynamics\r\n\u003Cul\u003E\u003Cli\u003ETh… [+7407 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Pete Syme",
+        "title": "European airlines are waging a first-class battle to woo rich travelers who like turning left",
+        "description": "Air France, Lufthansa, and British Airways have all recently unveiled new first-class suites with many routes to the US as transatlantic travel booms.",
+        "url": "https://www.businessinsider.com/europe-airlines-luxury-first-class-cabins-lure-americans-2025-3",
+        "urlToImage": "https://i.insider.com/67dbfef363d72727e197bc77?width=1200&format=jpeg",
+        "publishedAt": "2025-03-26T11:26:40Z",
+        "content": "Air France's upgraded first-class suite has five — yes, five — windows.Claire-Lise HAVET/Courtesy of Air France\r\n\u003Cul\u003E\u003Cli\u003EAir France unveiled a new first-class suite, joining rivals Lufthansa and Brit… [+6620 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Taylor Rains",
+        "title": "New planes are changing how people fly across the Atlantic",
+        "description": "Smaller jets can be cozier and boast competitive fares due to the cheaper costs, and their fewer passengers mean faster boarding and deplaning times.",
+        "url": "https://www.businessinsider.com/new-planes-changing-how-people-fly-to-europe-a321xlr-2025-3",
+        "urlToImage": "https://i.insider.com/67d46575585f1dff88b23436?width=1200&format=jpeg",
+        "publishedAt": "2025-03-15T11:30:01Z",
+        "content": "Airbus and Boeing narrowbody planes are becoming more mainstream across the Atlantic as airlines capitalize on their low costs and niche market capability.Thomas Pallini/Insider\r\n\u003Cul\u003E\u003Cli\u003EIncreasing n… [+7057 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "Fire causes day-long shutdown of UK’s Heathrow Airport",
+        "description": "London’s Heathrow Airport has been closed due to a nearby fire that caused a major power cut.",
+        "url": "https://www.aljazeera.com/program/newsfeed/2025/3/21/fire-causes-day-long-shutdown-of-uks-heathrow-airport",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/image-1742544641.jpg?resize=1200%2C675",
+        "publishedAt": "2025-03-21T08:10:59Z",
+        "content": "NewsFeed\r\nLondons Heathrow Airport has been closed due to a nearby fire that caused a major power cut, sending aviation schedules into chaos. Authorities are investigating the cause."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "MARYCLAIRE DALE",
+        "title": "Medical plane’s voice recorder likely wasn’t working for years before Philadelphia crash",
+        "description": "The cockpit voice recorder was not working on a medical transport plane that killed seven people when it plummeted into a Philadelphia neighborhood in...",
+        "url": "https://www.yahoo.com/news/medical-jet-voice-recorder-likely-194122743.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Faya88JIgkCjkX7M6KZ5xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/20f5caeebe3d574ad7717677c919af35",
+        "publishedAt": "2025-03-06T19:41:22Z",
+        "content": "PHILADELPHIA (AP) The cockpit voice recorder was not working on a medical transport plane that killed seven people when it plummeted into a Philadelphia neighborhood in January and likely had not bee… [+4416 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Ben Kesslen",
+        "title": "The 10 states with the most dangerous airspace in America",
+        "description": "A series of high-profile plane crashes have left Americans on edge about flying. But according to a new study, the air space you’re flying over might affect your chances of making it home safely.Read more...",
+        "url": "https://qz.com/us-states-most-dangerous-airspace-plane-crashes-1851770968",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/207549ff27a5b621b9367bd9f79f7bf8.jpg",
+        "publishedAt": "2025-03-25T11:30:00Z",
+        "content": "A series of high-profileplanecrashes have left Americans on edge about flying. But according to a new study, the air space youre flying over might affect your chances of making it home safely.\r\nTo be… [+1052 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Gadgeteer"
+        },
+        "author": "Julie Strietelmeier",
+        "title": "Aerocrafted Uplock – The sleek EDC carabiner inspired by aviation design",
+        "description": "NEWS – The Aerocrafted Uplock Key Carabiner is not your average key holder. It’s a precision-engineered tool inspired by aviation design. Named after the uplock latch used to secure aircraft landing gear during flight, this sleek carabiner combines functional…",
+        "url": "https://the-gadgeteer.com/2025/03/05/aerocrafted-uplock-the-sleek-edc-carabiner-inspired-by-aviation-design/",
+        "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2025/03/71gikgGdkNL._AC_SL1500_.jpg",
+        "publishedAt": "2025-03-05T14:00:26Z",
+        "content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nNEWS The Aerocrafted Uplock Key Carabiner is not your average key holder. Its a precision-engineered tool inspi… [+1171 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "newsweek.com",
+        "title": "Fighter Jets Sent Near Mar-a-Lago After Planes Violate Air Restrictions",
+        "description": "Temporary Federal Aviation Administration airspace restrictions were in place due to President Donald Trump's presence.",
+        "url": "https://biztoc.com/x/cf627ba955f31585",
+        "urlToImage": "https://biztoc.com/cdn/906/og.png",
+        "publishedAt": "2025-03-03T23:27:28Z",
+        "content": "Temporary Federal Aviation Administration airspace restrictions were in place due to President Donald Trump's presence.\r\nThis story appeared on newsweek.com, 2025-03-03 23:23:42."
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Michael Cripe",
+        "title": "PlayStation Fans Left Disappointed After Flight Simulator 2025 Store Page Labeled 'Copycat Shovelware'",
+        "description": "Fans quick to celebrate the reveal of a Microsoft Flight Simulator PlayStation Store page have been let down after it was discovered that the actual product is little more than “copycat shovelware.”",
+        "url": "https://www.ign.com/articles/playstation-fans-left-disappointed-after-flight-simulator-2025-store-page-labeled-copycat-shovelware",
+        "urlToImage": "https://assets-prd.ignimgs.com/2025/03/20/grizzly-games-limited-flight-simulator-2025-1742489850692.png?width=1280",
+        "publishedAt": "2025-03-20T17:09:04Z",
+        "content": "Fans quick to celebrate the reveal of a Microsoft Flight Simulator PlayStation Store page were left let down after it was discovered that the actual product is little more than copycat shovelware.\r\nX… [+3535 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Passant Rabie",
+        "title": "SpaceX Could Soon Control Public Beach Closures in South Texas",
+        "description": "The company is waiting on a vote that would turn Starbase into its own city.",
+        "url": "https://gizmodo.com/spacex-could-soon-control-public-beach-closures-in-south-texas-2000579061",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Starship-Booster-Catch-Boca-Chica.jpg",
+        "publishedAt": "2025-03-21T16:35:48Z",
+        "content": "SpaceX’s packed rocket launch schedule may get in the way of beach days. If the company succeeds in turning its launch site into an official city, SpaceX could assume full control over road and beach… [+2898 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Justin Worland/Houston, Texas",
+        "title": "Is Trump On a Collision Course with Energy Companies?",
+        "description": "The most influential advocates for decarbonization efforts—like carbon capture or hydrogen—may be energy executives.",
+        "url": "https://time.com/7270634/trump-energy-companies-ceraweek/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/ceraweek-logo-oil-industry.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2025-03-21T17:29:31Z",
+        "content": "When oil and gas executives first began using the phrase all of the above more than a decade ago, it was their pitch that climate advocates and sympathetic policymakers should keep natural gas alongs… [+5786 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Passant Rabie",
+        "title": "SpaceX’s Starship Disintegrates Again, Causing Major Commercial Flight Delays",
+        "description": "It's the second test flight in a row in which the upper stage failed, and it once again rained debris from the skies.",
+        "url": "https://gizmodo.com/spacexs-starship-disintegrates-again-causing-major-commercial-flight-delays-2000573137",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/SpaceX-Starship.jpeg",
+        "publishedAt": "2025-03-07T17:05:45Z",
+        "content": "The Federal Aviation Administration (FAA) opted to halt flights to several airports in Florida on Thursday night after SpaceX’s Starship upper stage disintegrated, raining debris over the coast. The … [+2921 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Leah Litman",
+        "title": "How the Supreme Court Paved the Way for DOGE",
+        "description": "Through a series of decisions, the Republican Justices laid the groundwork for much of the chaos of the Trump Administration",
+        "url": "https://time.com/7262781/supreme-court-doge-musk-trump/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/doge-consumer-protection.jpg?quality=85&w=1024&h=628&crop=1",
+        "publishedAt": "2025-02-28T15:35:57Z",
+        "content": "People may be looking to the federal courts, and ultimately the Supreme Court, to halt the massive destruction caused by Elon Musk and Donald Trump. But the reality is that the Republican Justices on… [+5701 chars]"
+      }
+    ]
+  }
