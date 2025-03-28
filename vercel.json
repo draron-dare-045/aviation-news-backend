@@ -1,3 +1,14 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/db.json" }]
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/db.json" }
+    ],
+    "headers": [
+      {
+        "source": "/db.json",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin", "value": "*" },
+          { "key": "Content-Type", "value": "application/json" }
+        ]
+      }
+    ]
   }
