@@ -82,19 +82,6 @@
       {
         "source": {
           "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "Archer Aviation stock takes off on new Abu Dhabi air taxi deal",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae8fe17e-715e-4c14-9665-a52ec15e0f3a",
-        "urlToImage": null,
-        "publishedAt": "2025-02-28T20:56:39Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-      },
-      {
-        "source": {
-          "id": null,
           "name": "BBC News"
         },
         "author": null,
@@ -156,19 +143,6 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae30/live/221c5560-00dd-11f0-a8b1-950887ddc6e5.jpg",
         "publishedAt": "2025-03-17T00:06:04Z",
         "content": "Kevin KeaneBBC Scotland's environment correspondent\r\nThere is both concern and optimism about the Grangemouth site's long-term future\r\nThe history of Grangemouth has been built on fossil fuels but no… [+5388 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "Airlines push back on strict rule that could have big impact on aviation industry: 'Forced to collect their own data'",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf9a4453-d96e-48de-83e9-58a81e08c630",
-        "urlToImage": null,
-        "publishedAt": "2025-03-08T10:30:43Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
       },
       {
         "source": {
@@ -341,32 +315,6 @@
       },
       {
         "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "US scientists create jet fuel from sunlight making carbon-free aviation reality",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d9b8c0d8-d601-44f6-bf1a-57449cced1ec",
-        "urlToImage": null,
-        "publishedAt": "2025-03-24T20:38:14Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "Pilot from Pennsylvania plane crash identified as executive board member of local aviation company",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_22f48b58-d5b0-41a3-b74e-2fb323357833",
-        "urlToImage": null,
-        "publishedAt": "2025-03-10T23:49:27Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-      },
-      {
-        "source": {
           "id": "business-insider",
           "name": "Business Insider"
         },
@@ -480,7 +428,7 @@
         "url": "https://abcnews.go.com/US/dc-plane-crash-ntsb-provide-updates-investigation/story?id=119664988",
         "urlToImage": "https://i.abcnewsfe.com/a/eab3b974-2c7a-4903-b3f3-302ade07b3c6/dc-plane-2-gty-gmh-250311_1741696732987_hpMain_16x9.jpg?w=1600",
         "publishedAt": "2025-03-11T18:31:07Z",
-        "content": "The National Transportation Safety Board chairman called for immediate changes at Washington, D.C.'s Ronald Reagan Washington National Airport, saying the current helicopter routes around the airport… [+2533 chars]"
+        "c.ontent": "The National Transportation Safety Board chairman called for immediate changes at Washington, D.C.'s Ronald Reagan Washington National Airport, saying the current helicopter routes around the airport… [+2533 chars]"
       },
       {
         "source": {
